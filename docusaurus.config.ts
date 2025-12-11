@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://Panaversity.github.io',
+  url: 'https://giminikhan.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/physical-ai-textbook/',
+  baseUrl: '/Physical-AI-Humanoid-Robotics-Course-Book/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Panaversity', // Usually your GitHub org/user name.
-  projectName: 'physical-ai-textbook', // Usually your repo name.
+  organizationName: 'GiminiKhan', // Usually your GitHub org/user name.
+  projectName: 'Physical-AI-Humanoid-Robotics-Course-Book', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
