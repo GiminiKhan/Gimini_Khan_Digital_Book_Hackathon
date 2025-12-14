@@ -34,11 +34,6 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'GiminiKhan', // Usually your GitHub org/user name.
   projectName: 'Gimini_Khan_Digital_Book_Hackathon', // Usually your repo name.
-  deploymentBranch: 'gh-pages', // The branch that will contain the deployable Docusaurus site
-  trailingSlash: false,
-  deploy: {
-    remote: 'pro',
-  },
 
   onBrokenLinks: 'throw',
 
